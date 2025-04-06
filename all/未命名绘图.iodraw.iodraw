@@ -37,7 +37,7 @@
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-65" value="网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304" y="436" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-66" value="存安计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ix_3L7M1iFR-a5dwy7bX-66" value="存储计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="446" y="436" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-67" value="火灾监测系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
