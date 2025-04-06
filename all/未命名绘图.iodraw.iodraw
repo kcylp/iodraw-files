@@ -19,20 +19,11 @@
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-5" value="工业视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="226" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-6" value="火灾监测系统&#xa;瓦斯抽采系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="401" y="217" width="156" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-7" value="水文监测系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="226" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-8" value="重大设备监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="607" y="226" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-9" value="存储/计算/网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="91" y="351" width="173" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-10" value="存安计算&#xa;火灾监测系统&#xa;安全监控系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="504" y="334" width="156" height="84" as="geometry" />
         </mxCell>
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-1" target="ix_3L7M1iFR-a5dwy7bX-2">
           <mxGeometry relative="1" as="geometry">
@@ -60,11 +51,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-2" target="ix_3L7M1iFR-a5dwy7bX-6">
+        <mxCell id="ix_3L7M1iFR-a5dwy7bX-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="479" y="192" />
             </Array>
+            <mxPoint x="479" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-2" target="ix_3L7M1iFR-a5dwy7bX-7">
@@ -74,11 +66,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-2" target="ix_3L7M1iFR-a5dwy7bX-8">
+        <mxCell id="ix_3L7M1iFR-a5dwy7bX-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="685" y="192" />
             </Array>
+            <mxPoint x="685" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-5" target="ix_3L7M1iFR-a5dwy7bX-9">
@@ -88,24 +81,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.08;entryY=0;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-6" target="ix_3L7M1iFR-a5dwy7bX-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="479" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ix_3L7M1iFR-a5dwy7bX-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-7" target="ix_3L7M1iFR-a5dwy7bX-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="273" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ix_3L7M1iFR-a5dwy7bX-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="ix_3L7M1iFR-a5dwy7bX-8" target="ix_3L7M1iFR-a5dwy7bX-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="685" y="309" />
             </Array>
           </mxGeometry>
         </mxCell>
