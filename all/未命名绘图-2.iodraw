@@ -5,73 +5,65 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-1" value="应用平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="837" y="20" width="275" height="415" as="geometry" />
+          <mxGeometry x="28.359646608297226" width="275" height="415" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-2" value="数据中台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="581" y="39" width="207" height="376" as="geometry" />
+          <mxGeometry x="877.0583310379182" y="223.26090928226841" width="207" height="376" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-3" value="数据接口网关" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="277" y="40" width="254" height="375" as="geometry" />
+          <mxGeometry y="998.762446768499" width="254" height="375" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-4" value="数据源" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="207" height="415" as="geometry" />
+          <mxGeometry x="634.7932714849657" y="85.49142780285592" width="207" height="415" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-5" value="综合管控平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="45" y="65" width="157" height="49" as="geometry" />
+          <mxGeometry x="699.1068163893918" y="529.1720820007406" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-6" value="冲击地压预警" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="45" y="164" width="156" height="49" as="geometry" />
+          <mxGeometry x="173.5196856825941" y="929.762445768499" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-7" value="生产PLC系统" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="48" y="262" width="151" height="49" as="geometry" />
+          <mxGeometry x="102.03648290902902" y="694.6254193071716" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-8" value="安全监测" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="61" y="361" width="124" height="49" as="geometry" />
+          <mxGeometry x="777.399732164666" y="773.1556637389957" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-9" value="统一的数据接口网关" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="302" y="203" width="204" height="49" as="geometry" />
+          <mxGeometry x="425.292074955045" y="736.09042793136" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-10" value="数据清洗治理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="606" y="203" width="157" height="49" as="geometry" />
+          <mxGeometry x="393.5378755013977" y="667.09042693136" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-11" value="新建展示平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="897" y="55" width="157" height="49" as="geometry" />
+          <mxGeometry x="364.37897691824696" y="1018.0832673650675" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-12" value="DeepSeek智能分析模块" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="862" y="154" width="225" height="49" as="geometry" />
+          <mxGeometry x="570.4697992661869" y="964.7585402947459" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-13" value="原综合管控平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="888" y="252" width="173" height="49" as="geometry" />
+          <mxGeometry x="441.79327048496566" y="366.10573699438623" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-14" value="集团/省级平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="892" y="351" width="166" height="49" as="geometry" />
+          <mxGeometry x="196.73594989136117" y="435.000001" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.39;entryY=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-5" target="Gts62P6QbXD_Fwzr4ZxL-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="277" y="89" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.11;entryY=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-6" target="Gts62P6QbXD_Fwzr4ZxL-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="277" y="188" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.24;entryY=0.99;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-7" target="Gts62P6QbXD_Fwzr4ZxL-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="277" y="287" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.4;entryY=0.99;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-8" target="Gts62P6QbXD_Fwzr4ZxL-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="277" y="385" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-9" target="Gts62P6QbXD_Fwzr4ZxL-10">
@@ -81,30 +73,22 @@
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-10" target="Gts62P6QbXD_Fwzr4ZxL-11">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="787" y="79" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0;entryY=0.49;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-10" target="Gts62P6QbXD_Fwzr4ZxL-12">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="787" y="178" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0;entryY=0.5;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-10" target="Gts62P6QbXD_Fwzr4ZxL-13">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="787" y="277" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0.99;entryX=0;entryY=0.5;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-10" target="Gts62P6QbXD_Fwzr4ZxL-14">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="787" y="375" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
