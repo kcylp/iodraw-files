@@ -4,6 +4,88 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-57" value="深入清洗规则" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="403" width="781" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-58" value="数据源" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="534" y="20" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-59" value="基础清洗" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="541" y="119" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-60" value="深入清洗" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="532" y="217" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-61" value="数据中台存储" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="836" y="428" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-62" value="质量异常区" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="428" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-63" value="空值处理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="55" y="428" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-64" value="异常值处理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="229" y="428" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-65" value="一致性校验" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="419" y="428" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-66" value="业务规则校验" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="610" y="428" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-58" target="NHaVLyPR9tGR80lTNxKG-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-59" target="NHaVLyPR9tGR80lTNxKG-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-69" value="清洗通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-60" target="NHaVLyPR9tGR80lTNxKG-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="915" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-70" value="清洗失败/异常" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0.01;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-60" target="NHaVLyPR9tGR80lTNxKG-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1113" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-60" target="NHaVLyPR9tGR80lTNxKG-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="117" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-60" target="NHaVLyPR9tGR80lTNxKG-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0.01;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-60" target="NHaVLyPR9tGR80lTNxKG-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="489" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHaVLyPR9tGR80lTNxKG-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0.01;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-60" target="NHaVLyPR9tGR80lTNxKG-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="688" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
