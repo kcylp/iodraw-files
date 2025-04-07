@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="KDwzDaNGrJalfpGEy-tb">
-    <mxGraphModel dx="1234" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,43 +8,43 @@
           <mxGeometry x="28.35964660829754" width="275" height="415" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-2" value="数据中台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="877.0583310379185" y="222.2856305363752" width="207" height="376" as="geometry" />
+          <mxGeometry x="877.0583310379185" y="223.2609092822674" width="207" height="376" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-3" value="数据接口网关" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry y="996.8923770721537" width="254" height="375" as="geometry" />
+          <mxGeometry y="998.7624467684991" width="254" height="375" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-4" value="数据源" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="633.5826738110057" y="84.51614905696181" width="207" height="415" as="geometry" />
+          <mxGeometry x="634.7932714849646" y="85.49142780285399" width="207" height="415" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-5" value="综合管控平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="699.5971443410818" y="528.0444302277973" width="157" height="49" as="geometry" />
+          <mxGeometry x="699.1068163893915" y="529.1720820007403" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-6" value="冲击地压预警" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="173.78828664737478" y="927.8923760721539" width="156" height="49" as="geometry" />
+          <mxGeometry x="173.519685682594" y="929.762445768499" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-7" value="生产PLC系统" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="103.23285683410245" y="693.1594934599029" width="151" height="49" as="geometry" />
+          <mxGeometry x="102.03648290902896" y="694.6254193071718" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-8" value="安全监测" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="778.2365525191467" y="772.1784356355511" width="124" height="49" as="geometry" />
+          <mxGeometry x="777.3997321646659" y="773.1556637389954" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-9" value="统一的数据接口网关" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="426.57088480129056" y="735.1090849424434" width="204" height="49" as="geometry" />
+          <mxGeometry x="425.2920749550449" y="736.09042793136" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-10" value="数据清洗治理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="393.6820274197821" y="666.1090839424432" width="157" height="49" as="geometry" />
+          <mxGeometry x="393.5378755013975" y="667.0904269313598" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-11" value="新建展示平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="363.5307895203319" y="1016.5875933597322" width="157" height="49" as="geometry" />
+          <mxGeometry x="364.378976918247" y="1018.0832673650673" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-12" value="DeepSeek智能分析模块" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="570.0906905718111" y="965.045269637523" width="225" height="49" as="geometry" />
+          <mxGeometry x="570.4697992661869" y="964.7585402947457" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-13" value="原综合管控平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="440.58267281100575" y="364.8849678004121" width="173" height="49" as="geometry" />
+          <mxGeometry x="441.79327048496464" y="366.1057369943862" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-14" value="集团/省级平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="196.1693563709141" y="435.000001" width="166" height="49" as="geometry" />
+          <mxGeometry x="196.73594989136075" y="435.000001" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-b3vXHVs9HKmW0GC7Gpg-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.39;entryY=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="-b3vXHVs9HKmW0GC7Gpg-5" target="-b3vXHVs9HKmW0GC7Gpg-9">
           <mxGeometry relative="1" as="geometry">
