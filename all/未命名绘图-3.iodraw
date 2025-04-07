@@ -10,9 +10,6 @@
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-3" value="数据接口网关" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry y="1257" width="254" height="375" as="geometry" />
         </mxCell>
-        <mxCell id="Gts62P6QbXD_Fwzr4ZxL-4" value="数据源" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry y="1692" width="207" height="415" as="geometry" />
-        </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-5" value="综合管控平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry width="157" height="49" as="geometry" />
         </mxCell>
@@ -217,6 +214,9 @@
               <mxPoint x="697" y="2485" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--24" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
