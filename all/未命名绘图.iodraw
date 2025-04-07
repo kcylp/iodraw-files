@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="KDwzDaNGrJalfpGEy-tb">
-    <mxGraphModel dx="1820" dy="1467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="1467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,97 +8,59 @@
           <mxGeometry x="1070" width="781" height="99" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-21" value="数据源" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="452.2142857142857" width="109" height="49" as="geometry" />
+          <mxGeometry x="452.2142857142857" y="222.5" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-22" value="基础清洗" style="rounded=1;arcSize=20;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="459.2142857142857" y="149" width="95" height="49" as="geometry" />
+          <mxGeometry x="611.2142857142858" y="222.5" width="95" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-23" value="深入清洗" style="rhombus;strokeWidth=2;whiteSpace=wrap;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="451.92857142857144" y="298" width="113" height="113" as="geometry" />
+          <mxGeometry x="756.2142857142858" y="190.5" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-24" value="数据中台存储" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="853" y="511" width="157" height="49" as="geometry" />
+          <mxGeometry x="919.2142857142858" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-25" value="质量异常区" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="682" y="511" width="141" height="49" as="geometry" />
+          <mxGeometry x="919.2142857142858" y="89" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-26" value="空值处理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="528" y="511" width="124" height="49" as="geometry" />
+          <mxGeometry x="919.2142857142858" y="178" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-27" value="异常值处理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="358" y="511" width="140" height="49" as="geometry" />
+          <mxGeometry x="919.2142857142858" y="267" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-28" value="一致性校验" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="187" y="511" width="141" height="49" as="geometry" />
+          <mxGeometry x="919.2142857142858" y="356" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-29" value="业务规则校验" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry y="511" width="157" height="49" as="geometry" />
+          <mxGeometry x="919.2142857142858" y="445" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-21" target="NHaVLyPR9tGR80lTNxKG-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="506.7142857142858" y="61" />
-              <mxPoint x="506.7142857142858" y="137" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-22" target="NHaVLyPR9tGR80lTNxKG-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="506.7142857142858" y="210" />
-              <mxPoint x="508.42857142857144" y="286" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-32" value="清洗通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-24">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="551.3452380952381" y="423" />
-              <mxPoint x="931.5" y="499" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-33" value="清洗失败/异常" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-25">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="534.1785714285714" y="425" />
-              <mxPoint x="752.5" y="499" />
-            </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="517.0119047619048" y="427" />
-              <mxPoint x="590" y="499" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="499.84523809523813" y="427" />
-              <mxPoint x="428" y="499" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="482.67857142857144" y="425" />
-              <mxPoint x="257.5" y="499" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="465.51190476190476" y="423" />
-              <mxPoint x="78.5" y="499" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
