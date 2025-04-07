@@ -52,10 +52,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-33" value="清洗失败/异常" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-25">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0081" y="7" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1113" y="343.1186440677966" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="NHaVLyPR9tGR80lTNxKG-23" target="NHaVLyPR9tGR80lTNxKG-26">
