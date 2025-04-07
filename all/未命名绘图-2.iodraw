@@ -17,7 +17,7 @@
           <mxGeometry x="1787" width="207" height="415" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-5" value="综合管控平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="66.5" y="133.5" width="157" height="49" as="geometry" />
+          <mxGeometry x="408.5" y="133.5" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-6" value="冲击地压预警" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="253.5" width="156" height="49" as="geometry" />
@@ -29,22 +29,22 @@
           <mxGeometry x="620.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-9" value="统一的数据接口网关" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="133.5" width="204" height="49" as="geometry" />
+          <mxGeometry x="385" y="232.5" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-10" value="数据清洗治理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="527.5" y="133.5" width="157" height="49" as="geometry" />
+          <mxGeometry x="408.5" y="331.5" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-11" value="新建展示平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="734.5" width="157" height="49" as="geometry" />
+          <mxGeometry x="66.5" y="430.5" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-12" value="DeepSeek智能分析模块" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="89" width="225" height="49" as="geometry" />
+          <mxGeometry x="263.5" y="430.5" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-13" value="原综合管控平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="178" width="173" height="49" as="geometry" />
+          <mxGeometry x="528.5" y="430.5" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-14" value="集团/省级平台" style="whiteSpace=wrap;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="267" width="166" height="49" as="geometry" />
+          <mxGeometry x="741.5" y="430.5" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gts62P6QbXD_Fwzr4ZxL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.39;entryY=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="Gts62P6QbXD_Fwzr4ZxL-5" target="Gts62P6QbXD_Fwzr4ZxL-9">
           <mxGeometry relative="1" as="geometry" />
