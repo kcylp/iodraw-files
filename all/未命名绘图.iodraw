@@ -29,7 +29,7 @@
           <mxGeometry x="229" y="428" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-28" value="一致性校验" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="446" y="428" width="141" height="49" as="geometry" />
+          <mxGeometry x="454" y="428" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NHaVLyPR9tGR80lTNxKG-29" value="业务规则校验" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="610" y="428" width="157" height="49" as="geometry" />
