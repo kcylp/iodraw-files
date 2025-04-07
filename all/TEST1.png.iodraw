@@ -1,0 +1,163 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="ctZ3AhbJdVqcgYtOlT31">
+    <mxGraphModel dx="1248" dy="192" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--57" value="数据中台内部" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="945" y="718" width="219" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--58" value="协议适配器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="570" width="195" height="648" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--59" value="数据源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="577" width="207" height="641" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--60" value="PLC/SCADA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="644" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--61" value="冲击地压系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="814" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--62" value="人员定位系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="912" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--63" value="业务数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="1036" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--64" value="其他传感设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1134" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--65" value="OPC UA Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="389" y="605" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--66" value="Modbus Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="388" y="704" width="145" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--67" value="API Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="403" y="802" width="115" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--68" value="DB Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="406" y="972" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--69" value="MQTT Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="395" y="1134" width="132" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--70" value="数据接口网关/总线" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="608" y="733" width="186" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--71" value="消息队列 Kafka" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="970" y="753" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--72" value="数据湖/仓" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="988" y="852" width="133" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--73" value="OPC UA" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--60" target="Hc9_67_f7_aOI2YXrRp--65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="629" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--74" value="Modbus" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--60" target="Hc9_67_f7_aOI2YXrRp--66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--75" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=-0.01;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--61" target="Hc9_67_f7_aOI2YXrRp--67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="799" />
+              <mxPoint x="363" y="799" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--76" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.99;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--61" target="Hc9_67_f7_aOI2YXrRp--68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="919" />
+              <mxPoint x="363" y="919" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--77" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.01;entryX=0.08;entryY=1;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--62" target="Hc9_67_f7_aOI2YXrRp--67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="876" />
+              <mxPoint x="363" y="876" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--78" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--62" target="Hc9_67_f7_aOI2YXrRp--68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="989" />
+              <mxPoint x="363" y="989" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--79" value="DB Connect" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.16;entryY=0.99;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--63" target="Hc9_67_f7_aOI2YXrRp--68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="363" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--80" value="MQTT" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--64" target="Hc9_67_f7_aOI2YXrRp--69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.2;entryY=0;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--65" target="Hc9_67_f7_aOI2YXrRp--70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="629" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.09;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--66" target="Hc9_67_f7_aOI2YXrRp--70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--67" target="Hc9_67_f7_aOI2YXrRp--70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.15;entryY=1;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--68" target="Hc9_67_f7_aOI2YXrRp--70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.32;entryY=1;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--69" target="Hc9_67_f7_aOI2YXrRp--70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="1159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--86" value="标准化数据流" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--70" target="Hc9_67_f7_aOI2YXrRp--71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc9_67_f7_aOI2YXrRp--87" value="标准化数据流" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Hc9_67_f7_aOI2YXrRp--70" target="Hc9_67_f7_aOI2YXrRp--72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="876" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
