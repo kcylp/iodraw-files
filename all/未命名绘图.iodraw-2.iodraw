@@ -1,0 +1,163 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="7hipMFbgp7lrPt6SYx1N">
+    <mxGraphModel dx="1248" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-1" value="数据中台内部" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="945" y="168" width="219" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-2" value="协议适配器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="20" width="195" height="648" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-3" value="数据源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="27" width="207" height="641" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-4" value="PLC/SCADA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="94" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-5" value="冲击地压系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="264" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-6" value="人员定位系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="362" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-7" value="业务数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="486" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-8" value="其他传感设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="584" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-9" value="OPC UA Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="389" y="55" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-10" value="Modbus Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="388" y="154" width="145" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-11" value="API Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="403" y="252" width="115" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-12" value="DB Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="406" y="422" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-13" value="MQTT Adapter" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="395" y="584" width="132" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-14" value="数据接口网关/总线" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="608" y="183" width="186" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-15" value="消息队列 Kafka" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="970" y="203" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-16" value="数据湖/仓" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="988" y="302" width="133" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-17" value="OPC UA" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-4" target="iDC-7ktQJuU1g15hzYWc-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-18" value="Modbus" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-4" target="iDC-7ktQJuU1g15hzYWc-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-19" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=-0.01;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-5" target="iDC-7ktQJuU1g15hzYWc-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="249" />
+              <mxPoint x="363" y="249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-20" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.99;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-5" target="iDC-7ktQJuU1g15hzYWc-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="369" />
+              <mxPoint x="363" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-21" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.01;entryX=0.08;entryY=1;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-6" target="iDC-7ktQJuU1g15hzYWc-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="326" />
+              <mxPoint x="363" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-22" value="API/DB" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-6" target="iDC-7ktQJuU1g15hzYWc-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="439" />
+              <mxPoint x="363" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-23" value="DB Connect" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.16;entryY=0.99;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-7" target="iDC-7ktQJuU1g15hzYWc-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="363" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-24" value="MQTT" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-8" target="iDC-7ktQJuU1g15hzYWc-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.2;entryY=0;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-9" target="iDC-7ktQJuU1g15hzYWc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.09;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-10" target="iDC-7ktQJuU1g15hzYWc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-11" target="iDC-7ktQJuU1g15hzYWc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.15;entryY=1;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-12" target="iDC-7ktQJuU1g15hzYWc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.32;entryY=1;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-13" target="iDC-7ktQJuU1g15hzYWc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="609" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-30" value="标准化数据流" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-14" target="iDC-7ktQJuU1g15hzYWc-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-31" value="标准化数据流" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-14" target="iDC-7ktQJuU1g15hzYWc-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
