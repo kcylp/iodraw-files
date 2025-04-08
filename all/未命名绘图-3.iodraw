@@ -4,6 +4,91 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-28" value="乙方团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="706" width="749" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-29" value="项目实施团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="557" width="439" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-30" value="项目领导小组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="360" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-31" value="项目实施团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="459" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-32" value="甲方团队 (业务/IT)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="582" width="195" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-33" value="乙方团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="582" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-34" value="项目经理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="731" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-35" value="架构师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="830" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-36" value="开发工程师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="213" y="830" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-37" value="测试工程师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="403" y="830" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-38" value="数据工程师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="594" y="830" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-30" target="w-Nx3q-VyTdd0kfbv-Fu-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-31" target="w-Nx3q-VyTdd0kfbv-Fu-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-31" target="w-Nx3q-VyTdd0kfbv-Fu-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-33" target="w-Nx3q-VyTdd0kfbv-Fu-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-34" target="w-Nx3q-VyTdd0kfbv-Fu-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="109" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-34" target="w-Nx3q-VyTdd0kfbv-Fu-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="283" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-34" target="w-Nx3q-VyTdd0kfbv-Fu-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="473" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-34" target="w-Nx3q-VyTdd0kfbv-Fu-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
