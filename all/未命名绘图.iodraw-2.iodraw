@@ -4,6 +4,82 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-134" value="DeepSeek 智能分析平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="552" y="306" width="261" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-135" value="数据中台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="512" height="809" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-136" value="数据存储(原始/清洗后)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="151" y="185" width="225" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-137" value="分析结果库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="342" y="675" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-138" value="模型管理接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="895" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-139" value="数据服务API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286" y="796" width="147" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-140" value="展示平台/业务应用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="262" y="895" width="196" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-141" value="数据接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="331" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-142" value="AI模型(训练/推理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="587" y="430" width="191" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-143" value="结果输出接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="604" y="551" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-144" value="清洗后数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.99;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-136" target="iDC-7ktQJuU1g15hzYWc-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="270" />
+              <mxPoint x="338" y="306" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-141" target="iDC-7ktQJuU1g15hzYWc-142">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-146" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-142" target="iDC-7ktQJuU1g15hzYWc-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-147" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-143" target="iDC-7ktQJuU1g15hzYWc-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="682" y="625" />
+              <mxPoint x="413" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-148" value="数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0.99;entryX=0.09;entryY=0.01;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-136" target="iDC-7ktQJuU1g15hzYWc-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="270" />
+              <mxPoint x="209" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-149" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.65;entryY=0.01;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-137" target="iDC-7ktQJuU1g15hzYWc-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-139" target="iDC-7ktQJuU1g15hzYWc-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
