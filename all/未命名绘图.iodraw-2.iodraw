@@ -4,6 +4,81 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-151" value="设备传感器数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="276" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-152" value="数据中台 - 清洗存储" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="275" y="276" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-153" value="DeepSeek - 模型分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="499" y="276" width="179" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-154" value="故障概率/风险评分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="728" y="208" width="186" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-155" value="生成预警信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="209" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-156" value="结束/继续监控" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="308" width="119" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-157" value="数据中台 - 推送" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1238" y="209" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-158" value="展示平台 - 看板/3D" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1430" y="160" width="168" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-159" value="通知 - 短信/APP" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1442" y="259" width="145" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-151" target="iDC-7ktQJuU1g15hzYWc-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-161" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-152" target="iDC-7ktQJuU1g15hzYWc-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-162" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-153" target="iDC-7ktQJuU1g15hzYWc-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-163" value="达到阈值" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.28;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-154" target="iDC-7ktQJuU1g15hzYWc-155">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="973" y="234" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-164" value="未达阈值" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-154" target="iDC-7ktQJuU1g15hzYWc-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="973" y="368" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-155" target="iDC-7ktQJuU1g15hzYWc-157">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-166" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-157" target="iDC-7ktQJuU1g15hzYWc-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1405" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDC-7ktQJuU1g15hzYWc-167" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="iDC-7ktQJuU1g15hzYWc-157" target="iDC-7ktQJuU1g15hzYWc-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1405" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
