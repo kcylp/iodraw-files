@@ -33,6 +33,7 @@
         <mxCell id="w-Nx3q-VyTdd0kfbv-Fu-153" value="格式校验" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.04;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="w-Nx3q-VyTdd0kfbv-Fu-147" target="w-Nx3q-VyTdd0kfbv-Fu-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-50" y="290" />
               <mxPoint x="16.25" y="306" />
               <mxPoint x="25" y="382" />
             </Array>
