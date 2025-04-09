@@ -118,7 +118,7 @@
           <mxGeometry x="1228" y="1567" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hWGVbfTLNWvUxw655h_D-13" value="专线VPN" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="607" y="1419" width="121" height="49" as="geometry" />
+          <mxGeometry x="506" y="1514" width="121" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hWGVbfTLNWvUxw655h_D-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="hWGVbfTLNWvUxw655h_D-3" target="hWGVbfTLNWvUxw655h_D-4">
           <mxGeometry relative="1" as="geometry">
