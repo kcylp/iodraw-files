@@ -85,7 +85,7 @@
           <mxGeometry x="887" y="1384" width="523" height="415" as="geometry" />
         </mxCell>
         <mxCell id="hWGVbfTLNWvUxw655h_D-2" value="金河煤矿 (边缘节点)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1095" width="1365" height="269" as="geometry" />
+          <mxGeometry x="38" y="1133" width="1365" height="269" as="geometry" />
         </mxCell>
         <mxCell id="hWGVbfTLNWvUxw655h_D-3" value="矿区数据源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="1219" width="140" height="49" as="geometry" />
@@ -132,13 +132,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWGVbfTLNWvUxw655h_D-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0.11;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hWGVbfTLNWvUxw655h_D-4" target="hWGVbfTLNWvUxw655h_D-6">
+        <mxCell id="hWGVbfTLNWvUxw655h_D-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0.11;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="512" y="1228" />
-              <mxPoint x="683" y="1208" />
-              <mxPoint x="887" y="1228" />
+              <mxPoint x="509" y="1225" />
+              <mxPoint x="680" y="1205" />
+              <mxPoint x="677" y="1219" />
+              <mxPoint x="884" y="1225" />
             </Array>
+            <mxPoint x="414" y="1233.64" as="sourcePoint" />
+            <mxPoint x="935.3529411764703" y="1245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hWGVbfTLNWvUxw655h_D-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.08;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hWGVbfTLNWvUxw655h_D-5" target="hWGVbfTLNWvUxw655h_D-7">
