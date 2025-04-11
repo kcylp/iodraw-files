@@ -4,6 +4,119 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-539" value="上位机/SCADA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="917" width="163" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-540" value="工业以太网交换机" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="353" y="853" width="177" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-541" value="PLC S7-1200" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="829" width="147" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-542" value="HMI 触摸屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="714" y="720" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-543" value="变频器 VFDs (驱动泵)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="678" y="986" width="211" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-544" value="刮板机控制单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1348" y="917" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-545" value="阀门驱动单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="819" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-546" value="注浆泵 &amp; 电机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="986" width="198" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-547" value="刮板机 &amp; 电机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1658" y="917" width="198" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-548" value="电动阀门 (进/出/供水)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1646" y="819" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-549" value="传感器 (液位/流量/压力/温度/振动/速度/阀位)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="654" y="839" width="259" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-550" value="喷枪装置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1372" y="720" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-551" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-539" target="5Gq2I2V55LDMxlFxB6xr-540">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-552" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.03;entryX=1;entryY=0.04;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-541" target="5Gq2I2V55LDMxlFxB6xr-540">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="973" y="804" />
+              <mxPoint x="592" y="804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-553" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-542" target="5Gq2I2V55LDMxlFxB6xr-541">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="973" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-554" value="PROFINET" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-540" target="5Gq2I2V55LDMxlFxB6xr-543">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-555" value="控制信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-541" target="5Gq2I2V55LDMxlFxB6xr-544">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1289" y="942" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-556" value="控制信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.4;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-541" target="5Gq2I2V55LDMxlFxB6xr-545">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1289" y="843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-557" value="动力" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-543" target="5Gq2I2V55LDMxlFxB6xr-546">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-558" value="动力/控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-544" target="5Gq2I2V55LDMxlFxB6xr-547">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-559" value="控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-545" target="5Gq2I2V55LDMxlFxB6xr-548">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-560" value="信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.76;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-549" target="5Gq2I2V55LDMxlFxB6xr-541">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="973" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-561" value="控制信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-541" target="5Gq2I2V55LDMxlFxB6xr-550">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1289" y="744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Gq2I2V55LDMxlFxB6xr-562" value="状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=-0.01;entryX=0.24;entryY=1;rounded=0;" edge="1" parent="1" source="5Gq2I2V55LDMxlFxB6xr-543" target="5Gq2I2V55LDMxlFxB6xr-541">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="973" y="952" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
