@@ -1,100 +1,111 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="10XHPwB_uIFKdhdQj-45">
-    <mxGraphModel dx="1783" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2952" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-85" value="测点分布" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="149" width="1817" height="116" as="geometry" />
+          <mxGeometry x="1647" width="1817" height="116" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-86" value="瓦斯抽放泵机组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="868" y="50" width="172" height="49" as="geometry" />
+          <mxGeometry x="732" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-87" value="电机非驱动端&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="174" width="156" height="66" as="geometry" />
+          <mxGeometry y="149" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-88" value="电机驱动端&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="261" y="174" width="140" height="66" as="geometry" />
+          <mxGeometry x="186" y="149" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-89" value="齿轮箱输入侧&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="451" y="174" width="156" height="66" as="geometry" />
+          <mxGeometry x="356" y="149" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-90" value="齿轮箱输出侧1&#xa;(温振 - A向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="657" y="174" width="164" height="66" as="geometry" />
+          <mxGeometry x="542" y="149" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-91" value="齿轮箱输出侧2&#xa;(温振 - H向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="871" y="174" width="164" height="66" as="geometry" />
+          <mxGeometry x="736" y="149" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-92" value="泵驱动端&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="174" width="124" height="66" as="geometry" />
+          <mxGeometry x="930" y="149" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-93" value="泵非驱动端&#xa;(温振 - H向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="174" width="146" height="66" as="geometry" />
+          <mxGeometry x="1084" y="149" width="146" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-94" value="泵非驱动端&#xa;(温振 - A向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1456" y="174" width="145" height="66" as="geometry" />
+          <mxGeometry x="1260" y="149" width="145" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-95" value="工况集成点&#xa;(特定传感器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="174" width="152" height="66" as="geometry" />
+          <mxGeometry x="1435" y="149" width="152" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-87">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="133" y="124" />
+              <mxPoint x="746" y="61" />
+              <mxPoint x="78" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-88">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="331" y="124" />
+              <mxPoint x="764" y="63" />
+              <mxPoint x="256" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-89">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="529" y="124" />
+              <mxPoint x="782" y="65" />
+              <mxPoint x="434" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-90">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="739" y="124" />
+              <mxPoint x="800" y="67" />
+              <mxPoint x="624" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-91">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-92">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1148" y="124" />
+              <mxPoint x="818" y="69" />
+              <mxPoint x="818" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-93">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1333" y="124" />
+              <mxPoint x="836" y="67" />
+              <mxPoint x="992" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-94">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1528" y="124" />
+              <mxPoint x="854" y="65" />
+              <mxPoint x="1157" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-95">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1726" y="124" />
+              <mxPoint x="872" y="63" />
+              <mxPoint x="1332.5" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="61" />
+              <mxPoint x="1511" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
