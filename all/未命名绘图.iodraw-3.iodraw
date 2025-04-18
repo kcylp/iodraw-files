@@ -13,7 +13,7 @@
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-51" value="工控机 (IPC)&#xa;研华IPC610L" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="55" y="155" width="104" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-52" value="/&quot;监控软件 (SCADA)&#xa;Kcview7.5&quot;/" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-52" value="/&quot;监控软件 (SCADA)&#xa;Kcview8.0&quot;/" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="153" y="365" width="215" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NvuUO-CnTmdKQRnZ9g4t-53" value="Operator" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
