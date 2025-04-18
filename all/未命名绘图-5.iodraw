@@ -4,6 +4,94 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EXuEjnQX3oe0vYelewnL-1" value="瓦斯抽放泵机组(单台示意)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="800" width="1024" height="908" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-2" value="G_In (温振)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="329" y="402" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-3" value="齿轮箱 + 泵部分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="46" y="102" width="436" height="795" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-4" value="M_NDE (温振)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="614" y="81" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-5" value="WorkCond (工况)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="821" y="382" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-6" value="M_DE (温振)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="619" y="243" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-7" value="G_Out1 (温振 A)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="312" y="548" width="131" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-8" value="G_Out2 (温振 H)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="311" y="729" width="132" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-9" value="P_DE (温振 H)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="320" y="237" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-10" value="P_NDE1 (温振 H)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="83" y="137" width="133" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-11" value="P_NDE2 (温振 A)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="84" y="479" width="132" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-12" value="电机部分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EXuEjnQX3oe0vYelewnL-1">
+          <mxGeometry x="576" y="46" width="418" height="787" as="geometry" />
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-13" value="上" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-4" target="EXuEjnQX3oe0vYelewnL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="774" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-14" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-6" target="EXuEjnQX3oe0vYelewnL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="774" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-15" value="上" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-2" target="EXuEjnQX3oe0vYelewnL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-16" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.15;entryY=1;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-7" target="EXuEjnQX3oe0vYelewnL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="774" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-17" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.33;entryY=1;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-8" target="EXuEjnQX3oe0vYelewnL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="774" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-18" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-9" target="EXuEjnQX3oe0vYelewnL-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-19" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-10" target="EXuEjnQX3oe0vYelewnL-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXuEjnQX3oe0vYelewnL-20" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=1;rounded=0;" edge="1" parent="EXuEjnQX3oe0vYelewnL-1" source="EXuEjnQX3oe0vYelewnL-11" target="EXuEjnQX3oe0vYelewnL-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
