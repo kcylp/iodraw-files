@@ -1,88 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="10XHPwB_uIFKdhdQj-45">
-    <mxGraphModel dx="2496" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-33" value="Field [现场监测与执行层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="839" height="473" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-34" value="Sensors [传感器]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="235" width="571" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-35" value="模拟/开关量&#xa;(温/压/液位/开停等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="75" y="266" width="209" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-36" value="数字量&#xa;(多参数/CH4/CO/流量等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="334" y="266" width="242" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-37" value="PLC控制箱&#xa;开诚KXJ系列" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="137" y="415" width="105" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-38" value="监控分站/接线箱&#xa;开诚JHX-50等" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="667" y="413" width="135" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-39" value="执行机构&#xa;电动阀, 泵" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="95" y="576" width="90" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-40" value="&amp;quot;本安电源&amp;quot;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="646" y="260" width="179" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-41" value="工业环网" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="894" y="586" width="79" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-35" target="NvuUO-CnTmdKQRnZ9g4t-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="179" y="388" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-36" target="NvuUO-CnTmdKQRnZ9g4t-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="455" y="363" />
-              <mxPoint x="520" y="388" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-37" target="NvuUO-CnTmdKQRnZ9g4t-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="539" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-40" target="NvuUO-CnTmdKQRnZ9g4t-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="683" y="363" />
-              <mxPoint x="500" y="388" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-40" target="NvuUO-CnTmdKQRnZ9g4t-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="787" y="363" />
-              <mxPoint x="787" y="388" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-47" value="数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-37" target="NvuUO-CnTmdKQRnZ9g4t-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="481" y="539" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-48" value="数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-38" target="NvuUO-CnTmdKQRnZ9g4t-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="735" y="539" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
