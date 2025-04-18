@@ -4,80 +4,98 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-67" value="Edge [边缘计算层 - 现场]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="241" y="50" width="343" height="317" as="geometry" />
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-85" value="测点分布" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="149" width="1817" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-68" value="Sensing [智能感知层 - 现场]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="50" width="205" height="139" as="geometry" />
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-86" value="瓦斯抽放泵机组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="868" y="50" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-69" value="无线温振传感器&#xa;(电池供电)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="59" y="75" width="127" height="89" as="geometry" />
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-87" value="电机非驱动端&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="174" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-70" value="&amp;quot;边缘计算网关&amp;quot;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="296" y="262" width="211" height="81" as="geometry" />
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-88" value="电机驱动端&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="261" y="174" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-71" value="&amp;quot;本安电源&amp;quot;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="362" y="81" width="179" height="78" as="geometry" />
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-89" value="齿轮箱输入侧&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="174" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-72" value="至 工业环网" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="352" y="440" width="100" height="67" as="geometry" />
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-90" value="齿轮箱输出侧1&#xa;(温振 - A向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="657" y="174" width="164" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-73" value="无线 (Bluetooth)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-69" target="NvuUO-CnTmdKQRnZ9g4t-70">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-91" value="齿轮箱输出侧2&#xa;(温振 - H向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="871" y="174" width="164" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-92" value="泵驱动端&#xa;(温振)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1086" y="174" width="124" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-93" value="泵非驱动端&#xa;(温振 - H向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="174" width="146" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-94" value="泵非驱动端&#xa;(温振 - A向)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1456" y="174" width="145" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-95" value="工况集成点&#xa;(特定传感器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="174" width="152" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="123" y="189" />
-              <mxPoint x="352" y="225" />
+              <mxPoint x="133" y="124" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-74" value="供电" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.62;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-71" target="NvuUO-CnTmdKQRnZ9g4t-70">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="451" y="225" />
+              <mxPoint x="331" y="124" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-75" value="MQTT数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-70" target="NvuUO-CnTmdKQRnZ9g4t-72">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="529" y="124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="739" y="124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-76" value="Edge [边缘计算层 - 现场]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="241" y="530" width="343" height="317" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-77" value="Sensing [智能感知层 - 现场]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="530" width="205" height="139" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-78" value="无线温振传感器&#xa;(电池供电)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="59" y="555" width="127" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-79" value="&amp;quot;边缘计算网关&amp;quot;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="296" y="742" width="211" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-80" value="&amp;quot;本安电源&amp;quot;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="362" y="561" width="179" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-81" value="至 工业环网" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="352" y="920" width="100" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-82" value="无线 (Bluetooth)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-78" target="NvuUO-CnTmdKQRnZ9g4t-79">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="123" y="669" />
-              <mxPoint x="352" y="705" />
+              <mxPoint x="1148" y="124" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-83" value="供电" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.62;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-80" target="NvuUO-CnTmdKQRnZ9g4t-79">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="451" y="705" />
+              <mxPoint x="1333" y="124" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-84" value="MQTT数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-79" target="NvuUO-CnTmdKQRnZ9g4t-81">
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-94">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1528" y="124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvuUO-CnTmdKQRnZ9g4t-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NvuUO-CnTmdKQRnZ9g4t-86" target="NvuUO-CnTmdKQRnZ9g4t-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1726" y="124" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
