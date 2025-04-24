@@ -4,6 +4,121 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="1GPD-cHldzM5zKixLYm9-25" value="安全监测系统 (瓦斯、烟雾等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="498" y="140" width="168" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-26" value="矿山综合管控平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="487" y="279" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-27" value="人员定位系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="62" y="378" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-28" value="应急广播系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297" y="378" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-29" value="查询危险区域人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="46" y="476" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-30" value="发送撤离指令 (帽灯/震动/APP)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="575" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-31" value="调度中心大屏告警 &amp; 人员追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="691" width="241" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-32" value="激活广播终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297" y="476" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-33" value="播放疏散语音" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297" y="584" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-34" value="撤离状态反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="389" y="807" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-35" value="广播状态反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="700" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-36" value="原始报警记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="503" y="378" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-37" value="报警" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-25" target="1GPD-cHldzM5zKixLYm9-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-26" target="1GPD-cHldzM5zKixLYm9-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-26" target="1GPD-cHldzM5zKixLYm9-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-27" target="1GPD-cHldzM5zKixLYm9-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-29" target="1GPD-cHldzM5zKixLYm9-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-30" target="1GPD-cHldzM5zKixLYm9-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-28" target="1GPD-cHldzM5zKixLYm9-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-32" target="1GPD-cHldzM5zKixLYm9-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-31" target="1GPD-cHldzM5zKixLYm9-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="782" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-33" target="1GPD-cHldzM5zKixLYm9-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.24;entryX=0.97;entryY=0.99;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-34" target="1GPD-cHldzM5zKixLYm9-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="782" />
+              <mxPoint x="761" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=0.8;entryY=0.99;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-35" target="1GPD-cHldzM5zKixLYm9-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="694" y="666" />
+              <mxPoint x="694" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GPD-cHldzM5zKixLYm9-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GPD-cHldzM5zKixLYm9-26" target="1GPD-cHldzM5zKixLYm9-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
