@@ -4,242 +4,119 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="zhnY82PNX8oid01WCAun-56" value="联动响应分支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1999" y="600" width="1600" height="581" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-109" value="传感器监测 (瓦斯、烟雾、水文等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1151" y="150" width="216" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-57" value="应急广播处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2365" y="687" width="895" height="251" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-110" value="监测数据 &gt; 预设报警阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1175" y="266" width="168" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-58" value="人员定位处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2365" y="957" width="1210" height="204" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-111" value="安全监测系统主机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1165" y="507" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-59" value="传感器监测 (瓦斯、烟雾、水文等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="859" width="216" height="66" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-112" value="矿山综合管控平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1165" y="629" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-60" value="监测数据 &gt; 预设报警阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1076" y="808" width="168" height="168" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-113" value="分析报警 (确认级别、影响范围)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="856" y="727" width="222" height="222" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-61" value="安全监测系统主机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1322" y="868" width="188" height="49" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-114" value="人员定位系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="766" y="1022" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-62" value="矿山综合管控平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1761" y="868" width="188" height="49" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-115" value="应急广播系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1018" y="1022" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-63" value="分析报警 (确认级别、影响范围)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2024" y="635" width="222" height="222" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-116" value="查询区域内人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="758" y="1143" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-64" value="人员定位系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2390" y="1010" width="156" height="49" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-117" value="发送定向撤离指令 (帽灯声光/震动, App推送等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1242" width="188" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-65" value="应急广播系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2390" y="722" width="156" height="49" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-118" value="调度中心大屏告警 &amp; 人员追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1003" y="1376" width="241" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-66" value="查询区域内人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2760" y="1010" width="172" height="49" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-119" value="激活指定区域广播终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="986" y="1143" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-67" value="发送定向撤离指令 (帽灯声光/震动, App推送等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3026" y="992" width="188" height="84" as="geometry" />
+        <mxCell id="zhnY82PNX8oid01WCAun-120" value="播放预设/实时疏散语音" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1063" y="1259" width="228" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-68" value="调度中心大屏告警 &amp; 人员追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3309" y="1040" width="241" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-69" value="激活指定区域广播终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2736" y="722" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-70" value="播放预设/实时疏散语音" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3006" y="795" width="228" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-59" target="zhnY82PNX8oid01WCAun-60">
+        <mxCell id="zhnY82PNX8oid01WCAun-121" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-109" target="zhnY82PNX8oid01WCAun-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-72" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-60" target="zhnY82PNX8oid01WCAun-61">
+        <mxCell id="zhnY82PNX8oid01WCAun-122" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-110" target="zhnY82PNX8oid01WCAun-111">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-73" value="报警信号 (类型, 位置, 数据)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-61" target="zhnY82PNX8oid01WCAun-62">
+        <mxCell id="zhnY82PNX8oid01WCAun-123" value="报警信号 (类型, 位置, 数据)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-111" target="zhnY82PNX8oid01WCAun-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-62" target="zhnY82PNX8oid01WCAun-63">
+        <mxCell id="zhnY82PNX8oid01WCAun-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-112" target="zhnY82PNX8oid01WCAun-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1974" y="746" />
+              <mxPoint x="967" y="702" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-75" value="联动指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-63" target="zhnY82PNX8oid01WCAun-64">
+        <mxCell id="zhnY82PNX8oid01WCAun-125" value="联动指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-113" target="zhnY82PNX8oid01WCAun-114">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2306" y="1034" />
+              <mxPoint x="844" y="986" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-76" value="联动指令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-63" target="zhnY82PNX8oid01WCAun-65">
+        <mxCell id="zhnY82PNX8oid01WCAun-126" value="联动指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-113" target="zhnY82PNX8oid01WCAun-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1096" y="986" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zhnY82PNX8oid01WCAun-127" value="危险区域信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-114" target="zhnY82PNX8oid01WCAun-116">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-77" value="危险区域信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-64" target="zhnY82PNX8oid01WCAun-66">
+        <mxCell id="zhnY82PNX8oid01WCAun-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-116" target="zhnY82PNX8oid01WCAun-117">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-66" target="zhnY82PNX8oid01WCAun-67">
+        <mxCell id="zhnY82PNX8oid01WCAun-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-117" target="zhnY82PNX8oid01WCAun-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="844" y="1351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zhnY82PNX8oid01WCAun-130" value="广播区域/内容指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-115" target="zhnY82PNX8oid01WCAun-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-67" target="zhnY82PNX8oid01WCAun-68">
+        <mxCell id="zhnY82PNX8oid01WCAun-131" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.37;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-119" target="zhnY82PNX8oid01WCAun-120">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3284" y="1034" />
+              <mxPoint x="1096" y="1217" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-80" value="广播区域/内容指令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-65" target="zhnY82PNX8oid01WCAun-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.3;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-69" target="zhnY82PNX8oid01WCAun-70">
+        <mxCell id="zhnY82PNX8oid01WCAun-132" value="撤离状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.07;entryX=0.79;entryY=0.98;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-118" target="zhnY82PNX8oid01WCAun-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2981" y="746" />
+              <mxPoint x="1369" y="1351" />
+              <mxPoint x="1369" y="702" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-82" value="撤离状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.57;entryY=0.99;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-68" target="zhnY82PNX8oid01WCAun-62">
+        <mxCell id="zhnY82PNX8oid01WCAun-133" value="广播状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.01;entryX=0.5;entryY=0.98;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-120" target="zhnY82PNX8oid01WCAun-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3284" y="1111" />
-              <mxPoint x="1974" y="1111" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-83" value="广播状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=0.99;entryX=1;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-70" target="zhnY82PNX8oid01WCAun-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2981" y="892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-84" value="传感器监测 (瓦斯、烟雾、水文等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1211" y="1200" width="216" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-85" value="监测数据 &gt; 预设报警阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1235" y="1316" width="168" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-86" value="安全监测系统主机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1225" y="1557" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-87" value="矿山综合管控平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1225" y="1679" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-88" value="分析报警 (确认级别、影响范围)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="916" y="1777" width="222" height="222" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-89" value="人员定位系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="826" y="2072" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-90" value="应急广播系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1078" y="2072" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-91" value="查询区域内人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="818" y="2193" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-92" value="发送定向撤离指令 (帽灯声光/震动, App推送等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="2292" width="188" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-93" value="调度中心大屏告警 &amp; 人员追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1063" y="2426" width="241" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-94" value="激活指定区域广播终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1046" y="2193" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-95" value="播放预设/实时疏散语音" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1123" y="2309" width="228" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-84" target="zhnY82PNX8oid01WCAun-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-97" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-85" target="zhnY82PNX8oid01WCAun-86">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-98" value="报警信号 (类型, 位置, 数据)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-86" target="zhnY82PNX8oid01WCAun-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-87" target="zhnY82PNX8oid01WCAun-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1027" y="1752" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-100" value="联动指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-88" target="zhnY82PNX8oid01WCAun-89">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="904" y="2036" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-101" value="联动指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-88" target="zhnY82PNX8oid01WCAun-90">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1156" y="2036" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-102" value="危险区域信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-89" target="zhnY82PNX8oid01WCAun-91">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-91" target="zhnY82PNX8oid01WCAun-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-92" target="zhnY82PNX8oid01WCAun-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="904" y="2401" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-105" value="广播区域/内容指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-90" target="zhnY82PNX8oid01WCAun-94">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.37;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-94" target="zhnY82PNX8oid01WCAun-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1156" y="2267" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-107" value="撤离状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.07;entryX=0.79;entryY=0.98;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-93" target="zhnY82PNX8oid01WCAun-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1429" y="2401" />
-              <mxPoint x="1429" y="1752" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zhnY82PNX8oid01WCAun-108" value="广播状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.01;entryX=0.5;entryY=0.98;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zhnY82PNX8oid01WCAun-95" target="zhnY82PNX8oid01WCAun-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1319" y="2267" />
+              <mxPoint x="1259" y="1217" />
             </Array>
           </mxGeometry>
         </mxCell>
