@@ -13,7 +13,7 @@
         <mxCell id="djXHVwSAUCeDgWOW7KJG-3" value="安全监测系统主机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="435" y="407" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="djXHVwSAUCeDgWOW7KJG-4" value="矿山综合管控平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="djXHVwSAUCeDgWOW7KJG-4" value="安全管控平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="435" y="529" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="djXHVwSAUCeDgWOW7KJG-5" value="分析报警 (确认级别、影响范围)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
