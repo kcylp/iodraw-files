@@ -4,6 +4,51 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-9" value="📡 安全监测系统&#xa;(各类传感器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="169" y="1150" width="183" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-10" value="💻 安全管控平台&#xa;(核心分析决策与联动控制)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="137" y="1289" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-11" value="📍 人员定位系统&#xa;(实时定位与指令接收)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1428" width="216" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-12" value="📢 应急广播系统&#xa;(分区广播与语音播报)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="286" y="1428" width="216" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-13" value="监测到报警" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jKy1xkSRdlSpmYzwHnbG-9" target="jKy1xkSRdlSpmYzwHnbG-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jKy1xkSRdlSpmYzwHnbG-10" target="jKy1xkSRdlSpmYzwHnbG-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="1392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jKy1xkSRdlSpmYzwHnbG-10" target="jKy1xkSRdlSpmYzwHnbG-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="1392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-16" value="人员状态/撤离反馈" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0.41;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jKy1xkSRdlSpmYzwHnbG-11" target="jKy1xkSRdlSpmYzwHnbG-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="216" y="1392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKy1xkSRdlSpmYzwHnbG-17" value="广播执行状态反馈" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0.84;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jKy1xkSRdlSpmYzwHnbG-12" target="jKy1xkSRdlSpmYzwHnbG-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="437" y="1392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
