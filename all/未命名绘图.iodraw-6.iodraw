@@ -1,9 +1,118 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="A8KkbM3Q6rs5EynEVEc7">
-    <mxGraphModel dx="869" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-1" value="地面机房/调度中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="391" width="631" height="463" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-2" value="井下区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="266" y="20" width="560" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-3" value="智能巡防机器人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="543" y="45" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-4" value="井下无线基站" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="301" y="206" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-5" value="地面数据中心服务器" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="268" y="416" width="193" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-6" value="地面监控与管理平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="131" y="681" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-7" value="调度室大屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="780" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-8" value="PC客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="245" y="780" width="127" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-9" value="传感器数据采集" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="477" y="166" width="127" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-10" value="AI边缘计算单元" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="654" y="167" width="126" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-11" value="AI分析服务器/模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="422" y="780" width="195" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-12" value="无线通信" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-3" target="cM7i8awf-TKmvaL2SlMx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-13" value="矿用环网/光纤" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-4" target="cM7i8awf-TKmvaL2SlMx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-14" value="网络" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-5" target="cM7i8awf-TKmvaL2SlMx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-6" target="cM7i8awf-TKmvaL2SlMx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-6" target="cM7i8awf-TKmvaL2SlMx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-17" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.42;exitY=0.99;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-3" target="cM7i8awf-TKmvaL2SlMx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="593" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-18" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=0.99;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-3" target="cM7i8awf-TKmvaL2SlMx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0;entryX=0.09;entryY=0.99;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-9" target="cM7i8awf-TKmvaL2SlMx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="453" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.02;entryX=0.46;entryY=0.99;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-10" target="cM7i8awf-TKmvaL2SlMx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-21" value="" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.81;entryX=0.64;entryY=0;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-5" target="cM7i8awf-TKmvaL2SlMx-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="645" />
+              <mxPoint x="575" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cM7i8awf-TKmvaL2SlMx-22" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.96;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="cM7i8awf-TKmvaL2SlMx-6" target="cM7i8awf-TKmvaL2SlMx-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="424" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
