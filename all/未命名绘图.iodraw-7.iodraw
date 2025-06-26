@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="31rdZ7KzG7d_71henyJa-22" value="现场执行与传感层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1120" width="765" height="536" as="geometry" />
-        </mxCell>
         <mxCell id="31rdZ7KzG7d_71henyJa-23" value="现场控制层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="770" y="910" width="498" height="359" as="geometry" />
         </mxCell>
@@ -15,21 +12,6 @@
         </mxCell>
         <mxCell id="31rdZ7KzG7d_71henyJa-25" value="本地控制按钮" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="840" y="885" width="145" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-26" value="ZKC127Q 气动转辙机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="1291" width="208" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-27" value="道岔尖轨" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="183" y="1430" width="79" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-28" value="GUC-10 位置传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="313" y="1582" width="198" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-29" value="KXH24 岔位指示器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="452" y="1291" width="190" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-30" value="外部压缩空气源" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="72" y="1145" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="31rdZ7KzG7d_71henyJa-31" value="A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1338" y="933" width="71" height="49" as="geometry" />
@@ -59,48 +41,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-36" value="电控信号 (驱动电磁阀)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.71;entryY=0.01;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-24" target="31rdZ7KzG7d_71henyJa-26">
+        <mxCell id="31rdZ7KzG7d_71henyJa-36" value="电控信号 (驱动电磁阀)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.71;entryY=0.01;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="873" y="1219" />
               <mxPoint x="328" y="1255" />
             </Array>
+            <mxPoint x="266.571428571428" y="1291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-37" value="气动能源 (0.4~0.8MPa)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.35;entryY=0.01;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-30" target="31rdZ7KzG7d_71henyJa-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="143" y="1255" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-38" value="机械推力 (≥250Kgf)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-26" target="31rdZ7KzG7d_71henyJa-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-39" value="物理位置" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=0;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-27" target="31rdZ7KzG7d_71henyJa-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="223" y="1546" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-40" value="到位/未到位状态 (闭环反馈)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.03;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-28" target="31rdZ7KzG7d_71henyJa-24">
+        <mxCell id="31rdZ7KzG7d_71henyJa-40" value="到位/未到位状态 (闭环反馈)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.03;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" target="31rdZ7KzG7d_71henyJa-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="677" y="1546" />
               <mxPoint x="677" y="1255" />
               <mxPoint x="1246" y="1219" />
             </Array>
+            <mxPoint x="511" y="1583.47" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31rdZ7KzG7d_71henyJa-41" value="显示驱动信号 (红/绿灯)" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-24" target="31rdZ7KzG7d_71henyJa-29">
+        <mxCell id="31rdZ7KzG7d_71henyJa-41" value="显示驱动信号 (红/绿灯)" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="31rdZ7KzG7d_71henyJa-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1054" y="1219" />
               <mxPoint x="547" y="1255" />
             </Array>
+            <mxPoint x="547" y="1291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="31rdZ7KzG7d_71henyJa-42" value="现场执行与传感层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
