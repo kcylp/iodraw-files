@@ -5,104 +5,115 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IC4mFbproWrLAa_3jhaE-1" value="3D点云数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="223" y="20" width="142" height="49" as="geometry" />
+          <mxGeometry x="201.75" y="20" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-2" value="点云分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="238" y="119" width="113" height="113" as="geometry" />
+          <mxGeometry x="216.25" y="89" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-3" value="关键点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="195" y="304" width="103" height="103" as="geometry" />
+          <mxGeometry x="154.5" y="222" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-4" value="删除级别阈值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="479" width="145" height="145" as="geometry" />
+          <mxGeometry x="133.5" y="345" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-5" value="树长超过限制." style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="54" y="697" width="151" height="151" as="geometry" />
+          <mxGeometry x="130.5" y="510" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-6" value="从节点删除点云" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="920" width="172" height="49" as="geometry" />
+          <mxGeometry x="20" y="681" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-7" value="在节点上保留点云" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267" y="920" width="188" height="49" as="geometry" />
+          <mxGeometry x="212" y="681" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-8" value="高层级点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="748" width="124" height="49" as="geometry" />
+          <mxGeometry x="277.5" y="222" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-9" value="根据点云分类检索初步对应点集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1019" width="252" height="66" as="geometry" />
+          <mxGeometry x="180" y="750" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-10" value="通过NCC确定精确匹配点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1135" width="233" height="49" as="geometry" />
+          <mxGeometry x="189.5" y="836" width="233" height="49" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-11" value="确定距离约束" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="289" y="1256" width="145" height="145" as="geometry" />
+          <mxGeometry x="233.5" y="905" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-12" value="通过基于四元数的算法计算旋转和平移参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1473" width="252" height="66" as="geometry" />
+          <mxGeometry x="180" y="1070" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IC4mFbproWrLAa_3jhaE-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1590" width="92" height="49" as="geometry" />
+          <mxGeometry x="260" y="1156" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-1" target="IC4mFbproWrLAa_3jhaE-2">
+        <mxCell id="IC4mFbproWrLAa_3jhaE-14" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-1" target="IC4mFbproWrLAa_3jhaE-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272.75" y="64" />
+              <mxPoint x="272.75" y="84" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-15" value="NO" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-2" target="IC4mFbproWrLAa_3jhaE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272.75" y="197" />
+              <mxPoint x="272.75" y="212" />
+              <mxPoint x="206" y="212" />
+              <mxPoint x="206" y="217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-16" value="NO" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-3" target="IC4mFbproWrLAa_3jhaE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="320" />
+              <mxPoint x="206" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-17" value="NO" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-4" target="IC4mFbproWrLAa_3jhaE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="485" />
+              <mxPoint x="206" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-18" value="NO" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-5" target="IC4mFbproWrLAa_3jhaE-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="656" />
+              <mxPoint x="206" y="671" />
+              <mxPoint x="106" y="671" />
+              <mxPoint x="106" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-19" value="YES" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-5" target="IC4mFbproWrLAa_3jhaE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="656" />
+              <mxPoint x="206" y="671" />
+              <mxPoint x="306" y="671" />
+              <mxPoint x="306" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-20" value="YES" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-4" target="IC4mFbproWrLAa_3jhaE-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-15" value="NO" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-2" target="IC4mFbproWrLAa_3jhaE-3">
+        <mxCell id="IC4mFbproWrLAa_3jhaE-21" value="YES" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-3" target="IC4mFbproWrLAa_3jhaE-7">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="246" y="268" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-16" value="NO" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-3" target="IC4mFbproWrLAa_3jhaE-4">
+        <mxCell id="IC4mFbproWrLAa_3jhaE-22" value="YES" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-2" target="IC4mFbproWrLAa_3jhaE-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="192" y="443" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-17" value="NO" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-4" target="IC4mFbproWrLAa_3jhaE-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="130" y="660" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-18" value="NO" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-5" target="IC4mFbproWrLAa_3jhaE-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="106" y="884" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-19" value="YES" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-5" target="IC4mFbproWrLAa_3jhaE-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="227" y="884" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-20" value="YES" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-4" target="IC4mFbproWrLAa_3jhaE-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="307" y="660" />
-              <mxPoint x="307" y="884" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-21" value="YES" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.83;entryX=0.54;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-3" target="IC4mFbproWrLAa_3jhaE-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="379" y="443" />
-              <mxPoint x="379" y="884" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-22" value="YES" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-2" target="IC4mFbproWrLAa_3jhaE-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="476" y="268" />
+              <mxPoint x="272.75" y="197" />
+              <mxPoint x="272.75" y="212" />
+              <mxPoint x="339.5" y="212" />
+              <mxPoint x="339.5" y="217" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,38 +124,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-7" target="IC4mFbproWrLAa_3jhaE-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-9" target="IC4mFbproWrLAa_3jhaE-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-10" target="IC4mFbproWrLAa_3jhaE-11">
+        <mxCell id="IC4mFbproWrLAa_3jhaE-24" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-7" target="IC4mFbproWrLAa_3jhaE-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="345" y="1220" />
+              <mxPoint x="306" y="725" />
+              <mxPoint x="306" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-27" value="YES" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-11" target="IC4mFbproWrLAa_3jhaE-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-12" target="IC4mFbproWrLAa_3jhaE-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IC4mFbproWrLAa_3jhaE-29" value="NO" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0.53;entryY=0.99;rounded=0;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-11" target="IC4mFbproWrLAa_3jhaE-10">
+        <mxCell id="IC4mFbproWrLAa_3jhaE-25" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-9" target="IC4mFbproWrLAa_3jhaE-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="377" y="1220" />
+              <mxPoint x="306" y="811" />
+              <mxPoint x="306" y="831" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-26" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-10" target="IC4mFbproWrLAa_3jhaE-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="880" />
+              <mxPoint x="306" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-27" value="YES" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-11" target="IC4mFbproWrLAa_3jhaE-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="1045" />
+              <mxPoint x="306" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-28" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-12" target="IC4mFbproWrLAa_3jhaE-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="1131" />
+              <mxPoint x="306" y="1151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IC4mFbproWrLAa_3jhaE-29" value="NO" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IC4mFbproWrLAa_3jhaE-11" target="IC4mFbproWrLAa_3jhaE-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
